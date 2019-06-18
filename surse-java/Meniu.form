@@ -99,7 +99,7 @@
         <Component class="javax.swing.JLabel" name="jLabel_background">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="D:\Documents\FMI\Anul 3\Licenta\Final\500.jpg"/>
+              <Image iconType="3" name="/pkgfinal/500.jpg"/>
             </Property>
             <Property name="text" type="java.lang.String" value="jLabel3"/>
           </Properties>

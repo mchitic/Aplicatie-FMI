@@ -57,7 +57,7 @@ public class Meniu extends javax.swing.JFrame {
         jPanel1.add(jButton_state_de_functii);
         jButton_state_de_functii.setBounds(175, 300, 220, 30);
 
-        jLabel_background.setIcon(new javax.swing.ImageIcon("D:\\Documents\\FMI\\Anul 3\\Licenta\\Final\\500.jpg")); // NOI18N
+        jLabel_background.setIcon(new javax.swing.ImageIcon(getClass().getResource("/pkgfinal/500.jpg"))); // NOI18N
         jLabel_background.setText("jLabel3");
         jPanel1.add(jLabel_background);
         jLabel_background.setBounds(0, 0, 500, 500);

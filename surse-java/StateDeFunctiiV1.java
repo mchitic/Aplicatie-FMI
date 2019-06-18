@@ -91,7 +91,7 @@ public class StateDeFunctiiV1 extends javax.swing.JFrame {
             }
         });
         jPanel1.add(jButton_generareState);
-        jButton_generareState.setBounds(980, 40, 240, 36);
+        jButton_generareState.setBounds(980, 40, 240, 33);
 
         jButton_inapoi.setBackground(new java.awt.Color(255, 255, 255));
         jButton_inapoi.setFont(new java.awt.Font("SansSerif", 0, 18)); // NOI18N
@@ -102,9 +102,9 @@ public class StateDeFunctiiV1 extends javax.swing.JFrame {
             }
         });
         jPanel1.add(jButton_inapoi);
-        jButton_inapoi.setBounds(1130, 410, 90, 36);
+        jButton_inapoi.setBounds(1130, 410, 90, 33);
 
-        jLabel_background.setIcon(new javax.swing.ImageIcon("D:\\Documents\\FMI\\Anul 3\\Licenta\\Final\\1250.jpg")); // NOI18N
+        jLabel_background.setIcon(new javax.swing.ImageIcon(getClass().getResource("/pkgfinal/1250.jpg"))); // NOI18N
         jPanel1.add(jLabel_background);
         jLabel_background.setBounds(0, 0, 1250, 500);
 

@@ -312,7 +312,7 @@
         <Component class="javax.swing.JLabel" name="jLabel_background">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="D:\Documents\FMI\Anul 3\Licenta\Final\1250.jpg"/>
+              <Image iconType="3" name="/pkgfinal/1250.jpg"/>
             </Property>
           </Properties>
           <Constraints>

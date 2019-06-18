@@ -237,7 +237,7 @@ public class PlataCuOraV1 extends javax.swing.JFrame {
             }
         });
         jPanel1.add(jButton_generarePlata);
-        jButton_generarePlata.setBounds(950, 60, 250, 36);
+        jButton_generarePlata.setBounds(950, 60, 250, 33);
 
         jLabel_numeEmail.setFont(new java.awt.Font("SansSerif", 0, 18)); // NOI18N
         jLabel_numeEmail.setText("Nume e-mail:");
@@ -262,7 +262,7 @@ public class PlataCuOraV1 extends javax.swing.JFrame {
             }
         });
         jPanel1.add(jButton_rapoarteIndividuale);
-        jButton_rapoarteIndividuale.setBounds(950, 230, 260, 36);
+        jButton_rapoarteIndividuale.setBounds(950, 230, 260, 33);
 
         jButton_inapoi.setBackground(new java.awt.Color(255, 255, 255));
         jButton_inapoi.setFont(new java.awt.Font("SansSerif", 0, 18)); // NOI18N
@@ -275,7 +275,7 @@ public class PlataCuOraV1 extends javax.swing.JFrame {
         jPanel1.add(jButton_inapoi);
         jButton_inapoi.setBounds(1125, 420, 100, 28);
 
-        jLabel_background.setIcon(new javax.swing.ImageIcon("D:\\Documents\\FMI\\Anul 3\\Licenta\\Final\\1250.jpg")); // NOI18N
+        jLabel_background.setIcon(new javax.swing.ImageIcon(getClass().getResource("/pkgfinal/1250.jpg"))); // NOI18N
         jPanel1.add(jLabel_background);
         jLabel_background.setBounds(0, 0, 1250, 500);
 
